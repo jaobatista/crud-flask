@@ -1,0 +1,6 @@
+# Ocultar o ambiente e o arquivo de variáveis
+venv/
+.env
+__pycache__/
+*.pyc
+
