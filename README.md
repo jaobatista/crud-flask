@@ -29,8 +29,8 @@ Este projeto implementa um CRUD completo para cadastro de usuários com interfac
 
 ### 1️⃣ Clone o repositório
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DA_PASTA>
+git clone https://github.com/jaobatista/crud-flask.git
+cd crud-flask
 ```
 
 ### 2️⃣ Crie e ative o ambiente virtual
@@ -44,13 +44,13 @@ source venv/bin/activate
 - **Windows (PowerShell):**
 ```powershell
 python -m venv venv
-.env\Scripts\Activate.ps1
+.\venv\Scripts\Activate.ps1
 ```
 
 - **Windows (cmd):**
 ```cmd
 python -m venv venv
-.env\Scriptsctivate.bat
+.\venv\Scripts\activate.bat
 ```
 
 ### 3️⃣ Instale as dependências
