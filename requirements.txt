@@ -1,0 +1,6 @@
+Flask==2.3.2
+Flask-WTF==1.1.1
+Flask-SQLAlchemy==3.0.3
+psycopg2-binary==2.9.6
+Werkzeug==2.3.4
+WTForms==3.0.1
